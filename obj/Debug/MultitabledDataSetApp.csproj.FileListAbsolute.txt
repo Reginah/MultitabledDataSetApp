@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2010\UNZIPED\Code\Chapter 22\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe.config
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe.config
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.exe
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\bin\Debug\MultitabledDataSetApp.pdb
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.MainForm.resources
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.exe
+C:\Users\Admin\Desktop\Code\Chapter 22\MultitabledDataSetApp\obj\Debug\MultitabledDataSetApp.pdb
